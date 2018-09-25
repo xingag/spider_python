@@ -8,5 +8,6 @@
 * [爬取中国天气网全国天气并生成饼状图 - bs4](./spiders/spider_china_weather.py)
 * [爬取古诗词网的数据 - re](./spiders/spider_gushiwen.py)
 * [爬取糗事百科上的段子数据 - re](./spiders/spider_qiu_shi_bai_ke.py)
+* [多线程爬取斗图吧的表情图并下载到本地 - xpath + threading](./spiders/spider_dou_tu_la.py)
 
 
