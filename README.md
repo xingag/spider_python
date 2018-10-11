@@ -11,7 +11,8 @@
 
 * [爬取糗事百科上的段子数据 - re](./spiders/spider_qiu_shi_bai_ke.py)
 
-  ​
+* [爬取拉勾网的职位信息 - selenium + requests + lxml ](./spiders/spider_lagou.py)
+
 
 
 ## 多线程爬虫
