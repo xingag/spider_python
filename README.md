@@ -11,8 +11,6 @@
 
 * [爬取糗事百科上的段子数据 - re](./spiders/spider_qiu_shi_bai_ke.py)
 
-* [爬取拉勾网的职位信息 - selenium + requests + lxml ](./spiders/spider_lagou.py)
-
 
 
 ## 多线程爬虫
@@ -21,3 +19,9 @@
 * [多线程爬取百思不得姐的文字和图片信息并写入到csv中](./spiders/spider_bai_si_bu_de_jie.py)
 
 
+
+## Selenium 自动化爬虫
+
+* [爬取拉勾网的职位信息 - selenium + requests + lxml ](./spiders/spider_lagou.py)
+
+* [爬取 Boss 直聘网的职位信息 - selenium + lxml](./spiders/spider_boss.py)
