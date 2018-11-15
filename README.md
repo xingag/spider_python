@@ -25,3 +25,7 @@
 * [爬取拉勾网的职位信息 - selenium + requests + lxml ](./spiders/spider_lagou.py)
 
 * [爬取 Boss 直聘网的职位信息 - selenium + lxml](./spiders/spider_boss.py)
+
+
+## Scrapy 框架爬虫
+* [爬取糗事百科的段子保存到 JSON 文件中](./scrapy/qsbk/readme.MD)
