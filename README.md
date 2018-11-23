@@ -31,4 +31,5 @@
 * [爬取糗事百科的段子保存到 JSON 文件中](./scrapy/qsbk/readme.MD)
 * [爬取微信小程序论坛的数据](./scrapy/weixin_community/readme.MD)
 * [登录豆瓣网并修改个性签名](./scrapy/douban_login/readme.MD)
+* [下载汽车之家的高清图片到本地](./scrapy/qczj/readme.MD)
 

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79545f86-20e7-4b39-a099-da4a2e2dfac4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/02c3490f4c40293f98f7f1a1d10b52b4058775d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/248a5648f50456d8624f4690b7c8b13641bad493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/286615e978d45808f850318eb9686f6def467d88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/3430d96accab4fea13808af0157ec4e9ac160f54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/7aa02786d64cc4c56073f45177e89bcbaea71d5c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/aec37c1b78674935e473d6ad82060920f6411174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/cbaa93e89cc534fccd9f36859f19154df4dde77b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ef86ac314d22f6cf5c0da826731cb5f4791b314d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/07b41be05d4a77c3ca0ff0776a1cd782a3128865.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/162b87f3b6a3d713a2e2470112d1bd626b92ffc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/2b79964aff957715b93749a64d6b8a4fe50842a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/4a4e31dac4eceb2badba0334c91a2fd31f05ab54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/5261419c73aeb5bc92e44cbe5b6d6b0f6591393d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/737462203890a3eebe036debca502386963ea2ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/93a2f1bb214fc8548a3dd4790495e89384649adc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/c36aa11716229dea3048f163642cf8fa1eb95595.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/194d5890ab3a4dce98afd64abb784df9493edea2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/555f9f57648c6c727a7d986b98131bef4564a041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/5f678332e4545f78d5634423afcafe7d00dc9e78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/6ab9c01a183cd9f8e6a5a52fa6dd33b367b9cf65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/6b2ef1b53ffa673beae37f1938cbef9d27b4d7c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/7b13a643acaaf366d65dd532e015e66138b0c232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/9ab227402dca0619e322ab62d1ca9f222add4fe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/d59c766218335f91ae273b829936733fd34937b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/29e23966f657c91b27a5a0fb2b3e4fb9bd6c09bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/3d80b1d51bf2001f704715cf5698edfad0f549dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/4ea50cda8b89eb61b34cc2e62f159336b313edcd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/51eca41cf82cac99f7648e67f615cb93dbad068e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/569ee9fdfe214617eeda0371af79c964da504e5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/819567245842f040e2e800045364813a99775773.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/900fa28d71ed0ec969107a1481d86722c55158ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/95ab183785e8bd60d0d42533e829683683ac5638.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/1112c5b0cbeaceaa8b878c930a60420b966c5fdc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/13e36cd8b107cae86e1492f17485a37d2e12f8ef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/1873398a6e43285711ed8d99c951d98a0d72e5d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/6e90376b9727118c3f5a633af32bc4f371175a20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/8309534a9bc3ebc12f7d8e9728e4515900cc24ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/b6f5132245ac4825171a6234b45173a2dddbec26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/c9b5f3af800daa698d1cfb483167bd1c2a140fe2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/f6d413e9c30a6ad21cee70306dab99d58c14b1cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/0651696d27f458558cc04473573e54d5b3d09582.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/09927ab60feb7ec64dd90f41c2d930ebb3805c4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/31070301251080e1f731d9ce7a2fa1738dbefba0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/384d3974d4e5f4100b22099f5b2407aaa2b06d43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/8496c73f6b1baafb5be55ded1ef6e131bc8b0adc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/b1bc611a408644284fb02f65fecfb8698506b3cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/b46f6fcbd7c9ca4f36862bd88ea7deeffb741661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/f4d350b0dfb7e9709756e667c9d0c092a0d2fbe4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qczj/spiders/bmw5.py" beforeDir="false" afterPath="$PROJECT_DIR$/qczj/spiders/bmw5.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/qczj$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1542897284927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qczj" />
+    <SUITE FILE_PATH="coverage/qczj$start.coverage" NAME="start Coverage Results" MODIFIED="1542979383439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-595359325">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MD" value="2" />
+          <entry key="py" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="2" />
+          <entry key="Python" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="MD" value="64" />
+          <entry key="py" value="3438" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="64" />
+          <entry key="Python" value="3438" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qczj/spiders/bmw5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="53" column="57" lean-forward="true" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>File</find>
+      <find>a</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme.MD" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/qczj/items.py" />
+        <option value="$PROJECT_DIR$/qczj/settings.py" />
+        <option value="$PROJECT_DIR$/qczj/pipelines.py" />
+        <option value="$PROJECT_DIR$/qczj/spiders/bmw5.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="22" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qczj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qczj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.start">
+    <configuration name="pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qczj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qczj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qczj/pipelines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qczj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.start" />
+      <item itemvalue="Python.pipelines" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.pipelines" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79545f86-20e7-4b39-a099-da4a2e2dfac4" name="Default Changelist" comment="" />
+      <created>1542893619317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542893619317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="22" y="23" width="1680" height="965" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14896215" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7124857" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32951945" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14896215" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53257143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32954547" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="635" column="44" lean-forward="true" selection-start-line="635" selection-start-column="44" selection-end-line="635" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="5289" column="8" selection-start-line="5289" selection-start-column="8" selection-end-line="5289" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/scrapy/pipelines/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="187" column="27" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qczj/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="75" column="39" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qczj/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qczj/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qczj/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qczj/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qczj/spiders/bmw5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="53" column="57" lean-forward="true" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
