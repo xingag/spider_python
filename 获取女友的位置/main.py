@@ -148,7 +148,7 @@ class Location(object):
 
     def judge_time_met(self, take_time):
         """
-        判断拍摄时间是否是在今天
+        通知拍摄时间判断女朋友是否撒谎
         :param take_time:
         :return:
         """
@@ -159,9 +159,9 @@ class Location(object):
         today = str(datetime.date.today())
 
         if format_time == today:
-            return True
-        else:
             return False
+        else:
+            return True
 
 
 if __name__ == '__main__':
