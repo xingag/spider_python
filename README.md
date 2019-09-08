@@ -1,4 +1,13 @@
 # spider_python
+
+## 详细教程
+
+如果想查看详细的教程，请关注微信公众号：**AirPython**
+
+![](./raw/qr.jpeg)
+
+
+
 ## 普通的爬虫
 
 * [爬取电影天堂最新的电影数据 - xpath](./spiders/spider_dytt.py)
