@@ -25,7 +25,7 @@
 ## 多线程爬虫
 
 * [多线程爬取斗图吧的表情图并下载到本地 - xpath + threading](./spiders/spider_dou_tu_la.py)
-  * [使用 itchat 发送表情到指定的人和微信群](./spiders/发表情/)
+* [使用 itchat 发送表情到指定的人和微信群](./spiders/发表情/)
 * [多线程爬取百思不得姐的文字和图片信息并写入到csv中](./spiders/spider_bai_si_bu_de_jie.py)
 
 
@@ -59,4 +59,5 @@
 * [使用 Python 定位到女朋友的位置](./获取女友的位置)
 * [女朋友背着我，用 Python 偷偷隐藏了她的行踪](./ModifyLocation)
 * [微信群聊记录](./微信聊天记录)
+* [Python 调用 JAR](./Python调用JAR)
 
