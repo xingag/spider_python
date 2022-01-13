@@ -23,7 +23,7 @@ mccabe==0.6.1
 motor==2.0.0
 multidict==4.5.2
 parsel==1.5.1
-Pillow==5.3.0
+Pillow==9.0.0
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
 pycparser==2.19
