@@ -46,7 +46,7 @@ six==1.11.0
 tqdm==4.28.1
 Twisted==18.9.0
 tzlocal==1.5.1
-urllib3==1.23
+urllib3==1.26.5
 w3lib==1.19.0
 wrapt==1.10.11
 yarl==1.2.6
