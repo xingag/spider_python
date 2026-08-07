@@ -17,6 +17,7 @@
 import requests
 import re
 import time
+from docx import Document
 
 HEADERS = {
 	'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
@@ -94,11 +95,23 @@ def spider():
 
 		time.sleep(1)
 
-	# 2.显示数据
+	# 2.显示数据,并把爬取好的诗词保存到本地
+	keys_to_print = ['title', 'content']
+	doc = Document()
 	for poem in poems:
 		print(poem)
 		print("==" * 40)
+		for i in poem:
+			for key in keys_to_print:
+				value = i.get(key)
+				if value:
+					paragraph = doc.add_paragraph()
+					if key == 'title':
+						paragraph.add_run(f'《{value}》')
+					elif key == 'content':
+						paragraph.add_run(f'{value}')
 
+	doc.save('D:/output.docx')  # 指定保存的位置
 	print('恭喜！爬取数据完成！')
 
 
